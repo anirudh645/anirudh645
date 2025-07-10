@@ -26,11 +26,11 @@
 ## 🚀 Featured Projects:
 ### 🚌 [Bus Reservation System](https://github.com/anirudh645/Bus_Reservation_System)
 - A comprehensive bus booking and management system
-- Technologies used: [Add technologies used]
+- Technologies used: HTML, CSS, JS, Java Servlets
 
 ### 🌱 [Plant Disease Detection](https://github.com/anirudh645/Plant_Disease_Detection)
 - Machine learning project for detecting plant diseases
-- Technologies used: [Add technologies used]
+- Technologies used: Python, CNN Model
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anirudh645&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anirudh645&theme=dark&hide_border=false)<br/>
