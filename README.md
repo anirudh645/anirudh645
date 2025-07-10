@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Kesava Mohan Ganesh Anirudh
 [![](https://visitcount.itsvg.in/api?id=anirudh645&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->u
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 💫 About Me:
 🔭 I'm a tech enthusiast and love to explore tools and technologies that are changing the industries.  
