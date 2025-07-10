@@ -7,7 +7,7 @@
 🔭 I'm a tech enthusiast and love to explore tools and technologies that are changing the industries.  
 🌱 I'm passionate about software development, data science, and building innovative solutions  
 💻 I enjoy working on full-stack development and machine learning projects  
-📧 Reach me at: **anirudh268409@gmail.com**ere! � I'm Kesava Mohan Ganesh Anirudh Chunduru
+📧 Reach me at: **anirudh268409@gmail.com** here!
 
 ## �💫 About Me:
 🔭 I'm a tech enthusiast and love to explore tools and technologies that are changing the industries.  
