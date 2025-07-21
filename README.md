@@ -1,57 +1,99 @@
-# Hi there! 👋 I'm Kesava Mohan Ganesh Anirudh
-[![](https://visitcount.itsvg.in/api?id=anirudh645&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <h1>Hi there, I'm Kesava Mohan Ganesh Anirudh 👋</h1>
+  <h3>A Full-Stack Developer & Data Science Enthusiast building innovative solutions.</h3>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
 
-## 💫 About Me:
-🔭 I'm a tech enthusiast and love to explore tools and technologies that are changing the industries.  
-🌱 I'm passionate about software development, data science, and building innovative solutions  
-💻 I enjoy working on full-stack development and machine learning projects  
-📧 Reach me at: **anirudh268409@gmail.com** here!
-
-## �💫 About Me:
-🔭 I'm a tech enthusiast and love to explore tools and technologies that are changing the industries.  
-🌱 I'm passionate about software development, data science, and building innovative solutions  
-💻 I enjoy working on full-stack development and machine learning projects  
-📧 Reach me at: **anirudh268409@gmail.com**
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-g-anirudh-chunduru-7b581b215/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://anirudh645.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/anirudh645)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudh268409@gmail.com) 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-## 🚀 Featured Projects:
-### 🚌 [Bus Reservation System](https://github.com/anirudh645/Bus_Reservation_System)
-- A comprehensive bus booking and management system
-- Technologies used: HTML, CSS, JS, Java Servlets
-
-### 🌱 [Plant Disease Detection](https://github.com/anirudh645/Plant_Disease_Detection)
-- Machine learning project for detecting plant diseases
-- Technologies used: Python, CNN Model
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anirudh645&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anirudh645&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh645&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I'm a tech enthusiast passionate about exploring tools and technologies that are changing the world.
+- 🌱 I focus on software development and building practical, innovative applications.
+- 💻 I enjoy bringing ideas to life through full-stack development and machine learning projects.
+- 📧 Feel free to reach out to me at **anirudh268409@gmail.com**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anirudh645&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔗 Connect with Me
 
-<!--
-**anirudh645/anirudh645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/k-m-g-anirudh-chunduru-7b581b215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://anirudh645.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+  </a>
+  <a href="https://www.github.com/anirudh645" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:anirudh268409@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <strong>Languages:</strong><br/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <br/>
+  <strong>Frontend & Backend:</strong><br/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <br/>
+  <strong>Tools & Platforms:</strong><br/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚌 <a href="https://github.com/anirudh645/Bus_Reservation_System">Bus Reservation System</a></h3>
+      <p>A comprehensive web application for booking and managing bus tickets, designed for both users and administrators.</p>
+      <ul>
+        <li>Implemented user authentication and secure session management.</li>
+        <li>Features seat selection, booking history, and an admin dashboard.</li>
+      </ul>
+      <p><strong>Technologies:</strong> HTML, CSS, JavaScript, Java Servlets, MySQL</p>
+    </td>
+    <td width="50%">
+      <h3>🌱 <a href="https://github.com/anirudh645/Plant_Disease_Detection">Plant Disease Detection</a></h3>
+      <p>A machine learning model that identifies diseases in plants from leaf images, helping to enable early detection and treatment.</p>
+      <ul>
+        <li>Built and trained a Convolutional Neural Network (CNN).</li>
+        <li>Achieved high accuracy on a dataset of diverse plant images.</li>
+      </ul>
+      <p><strong>Technologies:</strong> Python, TensorFlow, Keras, CNN</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anirudh645&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh645&theme=dark&hide_border=false" alt="GitHub Streak">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh645&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=anirudh645&icon=0&color=0" alt="Visitor Count">
+</p>
