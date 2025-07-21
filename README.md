@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Kesava Mohan Ganesh Anirudh 👋</h1>
-  <h3>A Full-Stack Developer & Data Science Enthusiast building innovative solutions.</h3>
+  <h3>A Full-Stack Developer & Cloud Enthusiast building innovative solutions.</h3>
 </div>
 
 <br/>
